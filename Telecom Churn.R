@@ -3,7 +3,7 @@
 #   
 #   1.	Import the data files
 
-setwd('E:/R  Imp/CAPSTONES/Churn')
+setwd('E:/R  Imp/Churn')
 churn <- read.csv('churn.csv')
 internet <- read.csv('internet.csv')
 customer <- read.csv('customer.csv')
